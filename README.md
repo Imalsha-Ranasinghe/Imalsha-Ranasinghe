@@ -17,7 +17,6 @@ Computer Engineering Graduate | AI/ML Enthusiast | LLM & Agentic AI
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, and LLMs**
 - 🧠 Working with **Agentic AI, RAG systems, and LLM fine-tuning**
 - 📚 Interested in **AI-assisted education and personalized learning systems**
-- 🔬 Exploring research opportunities in **AI and intelligent systems**
 - 🌱 Continuously learning and experimenting with modern AI technologies
 
 ---
@@ -90,22 +89,6 @@ Computer Engineering Graduate | AI/ML Enthusiast | LLM & Agentic AI
 </a>
 
 </p>
-
-### 🚀 Selected Projects
-
-**NikoRead – AI-Powered PDF Study Companion**
-- Agentic RAG-based study assistant for interactive learning
-- Question answering, summarization, quiz generation, concept explanation, translation, and text-to-speech
-- Built with LangGraph, ChromaDB, Qwen2.5, and LoRA
-
-**Federated LLM-Based Multi-Agent System**
-- Multi-agent AI system for Sybil attack detection
-- Combined traditional ML models with LLM-based agents
-- Explored federated learning, LoRA fine-tuning, differential privacy, and robust aggregation
-
-**Smart Road Assistant**
-- Real-time computer vision system for road hazard detection
-- Built using YOLOv8, OpenCV, and PyTorch
 
 ### 📫 Connect With Me
 
